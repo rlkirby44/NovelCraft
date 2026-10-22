@@ -1,0 +1,36 @@
+# ==========================================
+# APPLICATION LAYOUT & TYPOGRAPHY CONFIG
+# ==========================================
+
+# Font Families
+FONT_FAMILY_SERIF = "Liberation Serif"
+FONT_FAMILY_SANS = "Liberation Sans"
+EDITOR_FONT_FAMILY = "Liberation Serif"
+UI_FONT_FAMILY = "Liberation Sans, Segoe UI, sans-serif"
+
+# Font Sizes
+EDITOR_FONT_SIZE = 13
+TREE_FONT_SIZE = 15
+NOTES_FONT_SIZE = 13
+HEADER_FONT_SIZE = 13
+BUTTON_FONT_SIZE = 16
+
+# Editor Layout Metrics
+EDITOR_INDENT_PIXELS = 30
+EDITOR_SIDE_MARGIN = 70
+
+# Spacing & Padding Metrics
+TOOLBAR_SPACING = 8
+TOOLBAR_PADDING = 4
+TOOL_BUTTON_PADDING = "6px 12px"
+TOOL_BUTTON_MARGIN = "3px 0px"
+PUSH_BUTTON_PADDING = "6px 14px"
+PUSH_BUTTON_MARGIN = "2px 4px"  # Top/Bottom, Left/Right
+PUSH_BUTTON_MIN_WIDTH = 60
+LIST_ITEM_PADDING = "6px"
+MENU_ITEM_PADDING = "6px 20px"
+HEADER_SECTION_PADDING = 8
+HEADER_TEXT_TRANSFORM = "uppercase"
+
+DUAL_VIEW_BUTTON_MIN_WIDTH = 130
+CHAPTER_BUTTON_MIN_WIDTH = 135

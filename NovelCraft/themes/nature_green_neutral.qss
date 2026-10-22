@@ -1,0 +1,14 @@
+QMainWindow, QDialog { background-color: #1a1a1a; }
+QWidget { color: #e8ece8; font-family: 'Liberation Sans', sans-serif; }
+QToolBar { background-color: #121212; border-bottom: 1px solid #384039; spacing: 8px; padding: 4px; }
+QToolBar QToolButton { background-color: #262926; color: #87c38f; border: 1px solid #384039; border-radius: 4px; padding: 6px 12px; font-weight: bold; }
+QToolBar QToolButton:hover { background-color: #384039; color: #b2e0b8; }
+QTreeWidget { background-color: #262926; border: 1px solid #384039; color: #e8ece8; }
+QTreeWidget::item:selected { background-color: #87c38f; color: #121212; font-weight: bold; }
+QSplitter::handle { background-color: #262926; }
+QTextEdit, QLineEdit, QListWidget, QComboBox { background-color: #262926; color: #e8ece8; border: 1px solid #384039; border-radius: 4px; padding: 4px; selection-background-color: #87c38f; selection-color: #121212; }
+QComboBox QAbstractItemView { background-color: #262926; color: #e8ece8; selection-background-color: #87c38f; selection-color: #121212; }
+QPushButton { background-color: #262926; color: #87c38f; border: 1px solid #384039; border-radius: 4px; padding: 6px 14px; font-weight: bold; }
+QPushButton:hover { background-color: #384039; color: #e8ece8; }
+QMenu { background-color: #1a1a1a; color: #e8ece8; border: 1px solid #87c38f; }
+QMenu::item:selected { background-color: #87c38f; color: #121212; }
